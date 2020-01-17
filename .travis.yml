@@ -1,1 +1,11 @@
 language: php
+
+before_script:
+    - cp .env.travis .env
+    - php artisan key:generate
+    - mysql -e 'create database thesovereign;'
+    - composer self-update
+    - composer install --no-interaction
+
+script:
+    - vendor/bin/phpunit
