@@ -15,7 +15,7 @@
 
 <strong>100% FREE + OPEN SOURCE.</strong>
 
-> A publishing platform for people who have an interest in monarchies around the world and wants to learn more about the political ideology. 
+> A publishing platform for people who have an interest in monarchies around the world and want to learn more about the political ideology. 
 
 See [#contributing](#Contributing) for more details on how you can help shape **the-sovereign**. We're always down to improve and receive feedback.
 
